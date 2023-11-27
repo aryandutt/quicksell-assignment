@@ -27,7 +27,7 @@ const statusMap = {
   }
 
   const priorityArr = [<AiOutlineDash />,
-  <BsFillExclamationSquareFill />,
+  <BsFillExclamationSquareFill color="#fc7840"/>,
   <BiSignal5 />,
   <BiSignal4 />,
    <BiSignal3 />]
